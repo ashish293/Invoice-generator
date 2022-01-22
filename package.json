@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^2.0.15",
     "pdfkit": "^0.13.0"
   }
 }
